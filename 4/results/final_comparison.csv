@@ -1,0 +1,4 @@
+Method,Pareto Size,HV,Max Spread,Best Fitness,Test Accuracy %,Total Time (min),Total CO2 (kg),Evaluations
+NSGA-II,12,1.309555,0.240569,0.0178,79.69,118.69,0.009221,431
+GridSearch,14,1.320416,0.480036,0.0166,79.69,421.33,0.035094,900
+RandomSearch,3,1.309029,0.175394,0.0164,80.92,40.72,0.003340,100
